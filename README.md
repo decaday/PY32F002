@@ -65,7 +65,9 @@ PY32F002A系列微控制器的工作温度范围为-40℃-85℃，工作电压�
 * 在￥3.0段当下首推[CH32V203 (LQFP-48,￥2.86)](https://github.com/SoCXin/CH32V203)
 * 在￥5.0段当下超值[N32G430 (LQFP-48,￥4.5)](https://github.com/SoCXin/N32G430)，[RP2040 (QFN-56,￥4.3)](https://github.com/SoCXin/RP2040)
 
-### 开源项目
+## 开源项目
 
 * [py32f0-template](https://github.com/IOsetting/py32f0-template)
+* [py32f0-cmake](https://github.com/decaday/py32f0-cmake): PY32F0 MCU CMake project template
+* [py32-hal](https://github.com/py32-rs/py32-hal): Rust HAL implementation for the entire py32 series
 
